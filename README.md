@@ -1,6 +1,6 @@
 # tpGPT
 
-To improve the targeted imputation approach of SmartImpute, the selection of an informative gene panel is performed using a GPT model with the R software package tpGPT. In tpGPT, researchers can specify parameters such as cancer type, tissue type, and cell type to enrich the default panel with additional genes relevant to their particular research focus.
+To improve the targeted imputation approach of SmartImpute, the selection of an informative gene panel is performed using a GPT model with the R software package tpGPT. In tpGPT, researchers can specify parameters such as cancer type, tissue type, and cell type to enrich the default panel with additional genes relevant to their particular research focus. SmartImpute: https://github.com/wanglab1/SmartImpute 
 
 ## Features
 
