@@ -1,12 +1,11 @@
 # tpGPT
 
-**tpGPT** is an R package that uses GPT models to generate optimized target gene panels based on tissue type, cancer type, and cell type. Designed for genomics researchers, this package integrates seamlessly with downstream tools like SmartImpute for single-cell transcriptome data analysis.
+**tpGPT** To improve the targeted imputation approach of SmartImpute, the selection of an informative gene panel is performed using a GPT model with the R software package tpGPT. In tpGPT, researchers can specify parameters such as cancer type, tissue type, and cell type to enrich the default panel with additional genes relevant to their particular research focus.
 
 ## Features
 
 - **Target Gene Panel Generation**: Generate marker gene panels tailored to specific tissue, cancer, and cell types.
 - **GPT Integration**: Leverages the OpenAI GPT model for intelligent and context-aware gene selection.
-- **Flexible Usage**: Mock mode available for testing and documentation without requiring API calls.
 
 ## Installation
 
