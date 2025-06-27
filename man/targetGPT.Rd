@@ -14,6 +14,7 @@ targetGPT(
   mock = FALSE
 )
 }
+
 \arguments{
 \item{data_gn}{A vector of gene names in your dataset.}
 
